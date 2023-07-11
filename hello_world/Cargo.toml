@@ -1,0 +1,7 @@
+# FWIW I added this after the chapter discussed cargo. Wasn't generated using `cargo new`
+[package]
+name = "hello_world"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
